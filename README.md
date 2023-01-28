@@ -1,10 +1,10 @@
-# Title: Robot Maze Navigation in Simulation
+# Title: Neural Networks & Music Generation
 
 ![](images/maze-example.png)
 
 ## Project Description
 
-I will focus on training neural networks (NNs) for the task of navigating a simulated "maze". A robot will be placed in a simulated environment (similar to the image above) and the NN will direct the robot to follow turn-by-turn directions from a starting location to an ending location. The simulator already exists, but a new dataset will need to be created, either manually or using an automated process.
+Inspired by the rise of AI in art and the music recommendations on Spotify, my project will focus on using neural networks to generate music. The plan is to expose neural networks (NN) to various genres, from Hip-Hop to EDM, from different datasets. Previous projects to do this have already been made, but my goal is to develop a more efficient algorithm to generate music
 
 The trained NN will be "deployed" as an application by putting the NN in new, unseen environments and testing its performance. If all goes well, then an extension of this work will include changing the simulation textures and lighting and training the NN to work when facing unseen textures.
 
