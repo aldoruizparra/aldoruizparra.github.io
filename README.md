@@ -4,11 +4,11 @@
 
 ## Project Description
 
-Inspired by the rise of AI in art and the music recommendations on Spotify, my project will focus on using neural networks to generate music. The plan is to expose neural networks (NN) to various genres, from Hip-Hop to EDM, from different datasets. Previous projects to do this have already been made, but my goal is to develop a more efficient algorithm to generate music
+When we listen to music on Spotify day-to-day, there’s an algorithm focused on recommending music, from our top mixes to the song that plays next in our Spotify. Inspired by the music recommendations on Spotify, my project will focus on using neural networks to generate a song FOR YOU! The plan is to expose the neural networks to various genres, from Hip-Hop to EDM, to best fit your genre.
 
-The trained NN will be "deployed" as an application by putting the NN in new, unseen environments and testing its performance. If all goes well, then an extension of this work will include changing the simulation textures and lighting and training the NN to work when facing unseen textures.
+As earlier said, the Neural Network will be trained to differentiate different types of music. The plan is to smart small, by using datasets of only instrumentals, to see if the neural networks is able to generate a nice, smooth instrumental that fits well among the genre. The next step would be to see if we are able to collect music with vocals and lyrics, to see if the Neural Network is able to generate music with words.
 
-The longer-term goal is to use a NN to enable better navigation in complex environments for a robot with multiple modes of locomotion (i.e., wheeled and flight). The results from this work will feed into an on-going project where we are trying to "cross the reality gap" that exists between simulation and the real world.
+Along this project, we will also consider the ethical questions: who should be able to use this technology? And how has AI previously influenced other forms of art?
 
 ## Project Goals
 
