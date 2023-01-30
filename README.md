@@ -1,6 +1,6 @@
 # Title: Neural Networks & Music Generation
 
-![](images/maze-example.png)
+![](AI-Music.png)
 
 ## Project Description
 
