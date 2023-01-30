@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
+title: A Song, For You
+description: A project proposal for CS 152
 plugins:
 - jekyll-remote-theme
