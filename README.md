@@ -1,4 +1,4 @@
-![](musicnote.png)
+![](AI-Music.png)
 
 ## Project Description
 
@@ -16,4 +16,4 @@ Along this project, we will also consider the ethics behind our project, questio
 4. Train a NN that is able to to generate instrumentals automatically for you
 5. If possible,  extend the previous so that that the NN is able to generate music with lyrics in it.
 
-![](AI-Music.png)
+![](musicnote.png)
